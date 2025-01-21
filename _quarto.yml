@@ -3,7 +3,7 @@ project:
   output-dir: .  # Render files directly into the main/root directory
   
 website:
-  title: "Merlin Urbanski"
+  title: "Laura Jochim"
   navbar:
     left:
       - text: "About"
@@ -14,9 +14,9 @@ website:
         
     right:
       - icon: github
-        href: https://github.com/MerlinUrbanski
-      - icon: linkedin
-        href: https://www.linkedin.com/in/merlin-urbanski-151ba3268
+        href: https://github.com/laurajochim
+      - icon: orcid
+        href: https://orcid.org/0009-0001-4577-4152
 
 format:
   html:
