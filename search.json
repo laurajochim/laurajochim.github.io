@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "About Me\nHello! I’m Laura Jochim, currently pursuing my Master’s in Methodology and Statistics for Behavioral, Biomedical, and Social Sciences at Utrecht University. At the moment I specialize in Artificial Intelligence in the field of biomedicine and my interests extent to Bayesian inference, Deep learning, Causal Inference, and psychological Diagnostics.\n\nCurrent tasks\n\nMedical Imaging: Creating synthetic CT scans based on MRI scans and evaluating the performance and uncertainty of the model.\nSynthetic Data: Creating synthetic tabular healthcare data using the neural network architecture GAN."
+    "text": "About Me\nHello! I’m Laura Jochim, currently pursuing my Master’s in Methodology and Statistics for Behavioral, Biomedical, and Social Sciences at Utrecht University. At the moment I specialize in Artificial Intelligence in the field of biomedicine and my interests extent to Bayesian Inference, Deep Learning, Causal Inference, and psychological Diagnostics.\n\nCurrent working on\n\nMedical Imaging: Creating synthetic CT scans based on MRI scans and evaluating the performance and uncertainty of the model.\nSynthetic Data: Creating synthetic tabular healthcare data using the neural network architecture GAN."
   },
   {
     "objectID": "about.html",

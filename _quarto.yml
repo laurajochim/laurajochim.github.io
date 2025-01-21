@@ -15,9 +15,9 @@ website:
     right:
       - icon: github
         href: https://github.com/laurajochim
-      - icon: orcid
+      - icon: fa-orcid
         href: https://orcid.org/0009-0001-4577-4152
-
+    
 format:
   html:
     theme: cosmo   # Use Bootstrap themes like 'cosmo', 'minty', etc.
