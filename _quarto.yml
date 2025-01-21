@@ -15,7 +15,7 @@ website:
     right:
       - icon: github
         href: https://github.com/laurajochim
-      - icon: fa-orcid
+      - icon: "fa-brands fa-orcid"
         href: https://orcid.org/0009-0001-4577-4152
     
 format:
