@@ -1,15 +1,13 @@
 ---
-title: "Martijn L.G. van Dam"
-about:
-  template: solana
-  image: m_image.png
-  links:
-    - icon: linkedin
-      href: https://nl.linkedin.com/in/martijn-van-dam-a0b02b188
-    - icon: github
-      href: https://github.com/tinusvd
+title: "Welcome to My Portfolio"
 ---
 
-## Hello!
+About Me
 
-I am a research master's student at the Methodology & Statistics Department at Utrecht University. My interests are (intensive) longitudinal data, Bayesian statistics, model selection, and causal inference. In my free time I enjoy going to the gym or cycling. When I am less active, I like to play video games.
+Hello! I'm Merlin Urbanski, a passionate researcher and aspiring data scientist with a deep interest in predictive analytics, spatial data, and statistical modeling. I am currently pursuing my Master’s in Methodology and Statistics for Behavioral, Biomedical, and Social Sciences at Utrecht University. 
+
+### What I Do
+- **Predictive Analytics**: Designing models to uncover insights and make accurate predictions from data.  
+- **Statistical Modeling**: Leveraging R and Python to develop robust statistical solutions for challenging problems.  
+- **Data Imputation**: Researching innovative ways to handle missing data and ensure model reliability.  
+

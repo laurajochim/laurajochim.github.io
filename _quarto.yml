@@ -1,22 +1,25 @@
 project:
   type: website
-
+  output-dir: .  # Render files directly into the main/root directory
+  
 website:
-  title: "Martijn L.G. van Dam"
+  title: "Merlin Urbanski"
   navbar:
     left:
-      - href: index.qmd
-        text: "About me"
-      - href: m_resume.pdf
-        text: "CV"
+      - text: "About"
+        href: index.qmd
+      - text: "Resume"
+        href: Resume.pdf
+        
+        
+    right:
+      - icon: github
+        href: https://github.com/MerlinUrbanski
+      - icon: linkedin
+        href: https://www.linkedin.com/in/merlin-urbanski-151ba3268
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo   # Use Bootstrap themes like 'cosmo', 'minty', etc.
     css: styles.css
-    toc: true
-
-
 

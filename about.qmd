@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+I'm a passionate researcher and developer, specializing in:
+- Predictive analytics and machine learning
+- Spatial data analysis (ArcGIS, QGIS)
+- Statistical modeling (R, Python)
