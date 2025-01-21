@@ -1,1 +1,1 @@
-# laurajochim..github.io
+# laurajochim.github.io
