@@ -9,7 +9,7 @@ website:
       - text: "About"
         href: index.qmd
       - text: "Resume"
-        href: Resume.pdf
+        href: CV_resume.pdf
         
         
     right:
